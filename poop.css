@@ -1,0 +1,25 @@
+body{
+    background-color: darkcyan
+}
+
+div#messages-box{
+    background-color: burlywood;
+    height: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+input{
+      width: 73%;
+}
+
+button{
+    box-sizing: border-box;
+    width: 25%;
+
+    background: black;
+    border: 3px solid wheat;
+    color: white;
+    box-shadow: 2px silver
+}
+
